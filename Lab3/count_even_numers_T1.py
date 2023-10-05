@@ -1,7 +1,7 @@
 def count_even_numbers(number_list):
     # Check if the list is empty
     if len(number_list) == 0:
-        return 0  
+        return 0
     
     # Initialize a counter variable 
     even_count = 0
@@ -16,7 +16,7 @@ def count_even_numbers(number_list):
     return even_count
 
 # Example usage:
-my_list = [22]
+my_list = [2]
 result = count_even_numbers(my_list)
 print("Count of even numbers:", result)
 
