@@ -19,7 +19,7 @@ class Book:
             return f'"{self.title}" by {self.author} was not borrowed.'
 
 # Example usage:
-book1 = Book('The Great Gatsby', 'F. Scott Fitzgerald')
+book1 = Book('Total Recall', 'Arnold Schwarzenegger')
 print(book1.borrow())
 print(book1.borrow())
 print(book1.return_book())

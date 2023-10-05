@@ -16,7 +16,7 @@ def count_even_numbers(number_list):
     return even_count
 
 # Example usage:
-my_list = [2]
+my_list = [2,2,2,3,5]
 result = count_even_numbers(my_list)
 print("Count of even numbers:", result)
 

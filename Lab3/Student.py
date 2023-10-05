@@ -15,7 +15,7 @@ class Student:
         return average
 
 # Create an instance of the Student class
-student1 = Student("Muhammad Anas", "051")
+student1 = Student("Aashir Farooq", "90")
 
 # Add some marks
 student1.add_marks("Math", 90)
